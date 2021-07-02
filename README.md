@@ -1,4 +1,4 @@
-### Prazer 👋
+### Bio 🔖
 
 Atuando com desenvolvimento web desde 2012 e mobile desde 2016. 
 

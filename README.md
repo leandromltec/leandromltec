@@ -3,7 +3,7 @@
 Atuando com desenvolvimento web desde 2012 e mobile desde 2016. 
 Neste github pode ser enconrado repositórios com projetos em que pude atuar em diferentes regras de negócio. 
 _________________________________________________________________________________________________________________
-Tecnologias de atuação:\
+### Tecnologias de atuação:\
 \
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
@@ -16,7 +16,7 @@ Tecnologias de atuação:\
 
 
 _________________________________________________________________________________________________________________
-Contatos:\
+## Contatos:\
 \
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-loureiro-dev/)](https://www.linkedin.com/in/leandro-loureiro-dev/)
 

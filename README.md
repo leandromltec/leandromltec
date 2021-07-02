@@ -18,7 +18,7 @@ Tecnologias de atuação:\
 _________________________________________________________________________________________________________________
 Contatos:\
 \
-[![Linkedin](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-loureiro-dev/)](https://www.linkedin.com/in/leandro-loureiro-dev/)
 
 
 <!--

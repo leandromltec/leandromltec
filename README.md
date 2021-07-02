@@ -1,4 +1,6 @@
-### Hi there 👋
+### Prazer 👋
+
+Atuando com desenvolvimento web desde 2012 e mobile desde 2016. 
 
 <!--
 **leandromltec/leandromltec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

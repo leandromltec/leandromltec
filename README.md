@@ -8,7 +8,7 @@ Tecnologias de atuação:
 
 _________________________________________________________________________________________________________________
 Contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
 
 
 <!--

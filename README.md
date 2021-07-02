@@ -8,7 +8,7 @@ Tecnologias de atuação:
 
 _________________________________________________________________________________________________________________
 Contatos: /
-[![Linkedin Badge](https://s2.glbimg.com/rw68OWF0LqFH4E2_enXyE0lcAs=/640x233/s.glbimg.com/po/tt/f/original/2011/05/18/linkedin_logo_1.jpg&link=https://www.linkedin.com/in/leandro-loureiro-dev//)](https://www.linkedin.com/in/leandro-loureiro-dev/)
+[![Linkedin Badge](https://www.tmf-group.com/-/media/images/logos/case-study-logos/linkedin.png&link=https://www.linkedin.com/in/leandro-loureiro-dev//)](https://www.linkedin.com/in/leandro-loureiro-dev/)
 
 
 <!--

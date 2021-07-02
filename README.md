@@ -1,6 +1,11 @@
 ### Bio 🔖
 
 Atuando com desenvolvimento web desde 2012 e mobile desde 2016. 
+Neste github pode ser enconrado repositórios com projetos em que pude atuar em diferentes regras de negócio. 
+_________________________________________________________________________________________________________________
+Tecnologias de atuação:
+
+
 
 <!--
 **leandromltec/leandromltec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

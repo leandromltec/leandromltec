@@ -4,11 +4,12 @@ Atuando com desenvolvimento web desde 2012 e mobile desde 2016.
 Neste github pode ser enconrado repositórios com projetos em que pude atuar em diferentes regras de negócio. 
 _________________________________________________________________________________________________________________
 Tecnologias de atuação:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-loureiro-dev//)](https://www.linkedin.com/in/leandro-loureiro-dev/)
 
 
 _________________________________________________________________________________________________________________
 Contatos:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-loureiro-dev//)](https://www.linkedin.com/in/leandro-loureiro-dev/)
+[![Linkedin](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white]
 
 
 <!--

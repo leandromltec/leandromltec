@@ -1,6 +1,7 @@
 ### Bio 🔖
 
-Atuando com desenvolvimento web desde 2012 e mobile desde 2018. 
+Atuando com desenvolvimento web desde 2012 e mobile desde 2018.
+Atualmente atuando como desenvolvedor mobile e evoluindo como desenvolvedor backend
 Neste github pode ser encontrado repositórios com projetos em que pude atuar em diferentes regras de negócio. 
 _________________________________________________________________________________________________________________
 ## Tecnologias de atuação: 

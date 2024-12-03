@@ -14,6 +14,8 @@ ________________________________________________________________________________
 [![NODEJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
 [![SHAREPOINT](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)]()
 
+## Linguagens de programação mais usadas:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromltec)](https://github.com/leandromltec/github-readme-stats)
 
 ## Contatos:
 

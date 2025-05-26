@@ -1,7 +1,7 @@
 ### Bio 🔖
 
 Desenvolvedor mobile \
-Desenvolvedor Flutter atuando com a tecnologia desde 2018, desenvolvendo aplicativos móveis intuitivos e escaláveis. \
+Desenvolvedor mobile desde 2018 e web desde 2012, desenvolvendo aplicativos móveis intuitivos e escaláveis. \
 Neste github pode ser encontrado repositórios com projetos em que pude atuar em diferentes regras de negócio 
 _________________________________________________________________________________________________________________
 ## Tecnologias de atuação: 
